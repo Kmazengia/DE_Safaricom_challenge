@@ -1,7 +1,4 @@
-Name: kefale Mulatu
-Gmail: kefesoft@gmail.com
-Phone: 0924510041
-Date 3/17/2023
+
 ======================================================
 Technical interview for Bigdata Data Engineer Possition
 Place= SAFARICOMHQ, wollosefer
