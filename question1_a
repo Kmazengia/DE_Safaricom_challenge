@@ -4,7 +4,7 @@ int n= 163;
 int r=0;//reminder 
 sum=o;//sum of digits of  the number
 {
-for(i=0; i,n.length(n);i++){
+for(i=0; i,n.length();i++){
 r=n%10;// finding the last digit 
 sum+=r;
 n =n/10;
