@@ -1,3 +1,4 @@
+//Big O notation for this question is n.`
 public static void main(String[] args){
 int n= 163;
 int r=0;//reminder 
