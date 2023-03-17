@@ -1,0 +1,5 @@
+FileReader fr = new FileReader(path);
+BufferedReader br = new BufferedReader(fr);
+String line = br.readLine();
+br.close();//closing buffer reader
+br.close();//closing FileReader

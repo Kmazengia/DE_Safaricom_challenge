@@ -1,0 +1,3 @@
+// The diffrence between interface and abstract class
+Interface have inside only abstract classess.
+but Abstract classess can be defind out side the interface.:

@@ -1,0 +1,1 @@
+in linked list remove() method is more faster thanArray becouse arrays are using index method to remove the element. In linked list there are two ways of traversing the node so it is faster than arrays.
