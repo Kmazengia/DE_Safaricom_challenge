@@ -1,5 +1,6 @@
+// This question have time complexity of n.
 public class stringReveral{
-//reverse string "entoto" to find "ototne"
+//reverse string "entoto" to find "ototne" 
 public static void main(String[] args)
 {
 String a = "entoto"
