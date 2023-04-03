@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-public class MagicNumberExample1  
+public class MagicNumber
 {  
 public static void main(String args[])  
 {  
